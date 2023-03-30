@@ -2,7 +2,6 @@ using System;
 class Persona
 {
     
-    
     public int DNI{get;private set;}
     public string Apellido{get;set;}
     public string Nombre{get;set;}
